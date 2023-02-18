@@ -1,0 +1,6 @@
+#game {
+    border: 2px solid #000000;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    image-rendering: -moz-crisp-edges;
+}
